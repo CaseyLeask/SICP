@@ -13,5 +13,3 @@ or
 
     scheme-r5rs
     (load "<filename>")
-
-You can reload the file from within the Read Eval Print Loop (REPL) if you've modified it and want to see some changes.
